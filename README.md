@@ -1,2 +1,1 @@
-# kotlin-android
-kotlin for android
+# stock_client
